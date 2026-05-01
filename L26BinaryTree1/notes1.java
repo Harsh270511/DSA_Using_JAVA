@@ -1,4 +1,4 @@
-// Binary tree basic preorder, inorder, postorder, levelorder
+// Binary tree basic pre-order, in-order, post-order, level-order
 package L26BinaryTree1;
 
 import java.util.*;
@@ -11,8 +11,8 @@ public class notes1 {
     Node left;
     Node right;
 
-    Node(int data) {
-      this.data = data;
+    Node(int val) {
+      this.data = val;
       this.left = null;
       this.right = null;
     }
@@ -85,7 +85,7 @@ public class notes1 {
           } else {
             q.add(null);
           }
-        } else {
+        }else{
           System.out.print(currNode.data + " ");
           if (currNode.left != null) {
             q.add(currNode.left);
