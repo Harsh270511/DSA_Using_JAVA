@@ -1,5 +1,5 @@
 //topological sorting
-package ApnaCollege.L35Graph2;
+package DSA.L35Graph2;
 import java.util.*;
 public class notes6 {
   static class Edge{

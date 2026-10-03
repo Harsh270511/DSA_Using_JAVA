@@ -1,5 +1,5 @@
 //topological sort using bfs
-package ApnaCollege.L36Graph3;
+package DSA.L36Graph3;
 
 import java.util.*;
 

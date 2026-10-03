@@ -1,5 +1,5 @@
 //Word break problem & T.C=O(L) where L is the length of the key
-package ApnaCollege.L33Tries;
+package DSA.L33Tries;
 
 public class notes2 {
   static class Node{

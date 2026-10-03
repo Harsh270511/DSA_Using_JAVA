@@ -1,5 +1,5 @@
 //fib using memoization
-package ApnaCollege.L39DP1.Fibonacci;
+package DSA.L39DP1.Fibonacci;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 //Climbing stair using tabulation
-package ApnaCollege.L39DP1;
+package DSA.L39DP1;
 import java.util.*;
 public class notes4 {
   public static int countWaysTab(int n){

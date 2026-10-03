@@ -1,5 +1,5 @@
 //climbing stairs using recursion
-package ApnaCollege.L39DP1;
+package DSA.L39DP1;
 
 public class notes2 {
   public static int climbRecursion(int n){

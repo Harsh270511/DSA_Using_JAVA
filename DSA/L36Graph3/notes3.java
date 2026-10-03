@@ -1,5 +1,5 @@
 //Dijkatra's Algorithm
-package ApnaCollege.L36Graph3;
+package DSA.L36Graph3;
 import java.util.*;
 public class notes3 {
   static class Edge{

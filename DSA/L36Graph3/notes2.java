@@ -1,5 +1,5 @@
 //All Path from source to target
-package ApnaCollege.L36Graph3;
+package DSA.L36Graph3;
 import java.util.*;
 public class notes2 {
   //Edge naam se class h

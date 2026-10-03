@@ -1,5 +1,5 @@
 //Creating a graph using Adjacency list
-package ApnaCollege.L34Graph1;
+package DSA.L34Graph1;
 import java.util.*;
 public class notes1 {
   static class Edge{

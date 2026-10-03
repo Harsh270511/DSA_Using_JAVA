@@ -1,5 +1,5 @@
 //Bellman ford algorithm-->O(V*E)
-package ApnaCollege.L37Graph4;
+package DSA.L37Graph4;
 import java.util.*;
 public class notes1 {
   static class Edge{

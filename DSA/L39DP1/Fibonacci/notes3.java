@@ -1,5 +1,5 @@
 //fib using tabulation
-package ApnaCollege.L39DP1.Fibonacci;
+package DSA.L39DP1.Fibonacci;
 
 public class notes3 {
   public static int fibTabulation(int n) {

@@ -1,5 +1,5 @@
 //Prefix problem
-package ApnaCollege.L33Tries;
+package DSA.L33Tries;
 
 public class notes3 {
   // Node class

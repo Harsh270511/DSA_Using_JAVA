@@ -1,5 +1,5 @@
 //Insert & search in tries 
-package ApnaCollege.L33Tries;
+package DSA.L33Tries;
 
 public class notes1 {
   static class Node {

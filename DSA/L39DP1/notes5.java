@@ -1,5 +1,5 @@
 //print longest common substring
-package ApnaCollege.L39DP1;
+package DSA.L39DP1;
 public class notes5 {
   public static String LCS(String s1, String s2){
     int n= s1.length();

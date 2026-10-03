@@ -1,5 +1,5 @@
 //fibonacci using recursion
-package ApnaCollege.L39DP1.Fibonacci;
+package DSA.L39DP1.Fibonacci;
 public class notes1 {
     public static int fibRecursion(int n){
         if(n <=1){

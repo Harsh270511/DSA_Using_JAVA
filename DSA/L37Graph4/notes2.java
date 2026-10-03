@@ -1,5 +1,5 @@
 //Prim's algorithm(MST Set)
-package ApnaCollege.L37Graph4;
+package DSA.L37Graph4;
 
 import java.util.*;
 

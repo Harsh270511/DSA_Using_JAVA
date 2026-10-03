@@ -1,4 +1,4 @@
-package ApnaCollege.L34Graph1;
+package DSA.L34Graph1;
 import java.util.*;
 public class notes4 {
   static class Edge{

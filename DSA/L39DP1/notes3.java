@@ -1,5 +1,5 @@
 //climbing stairs using memoization
-package ApnaCollege.L39DP1;
+package DSA.L39DP1;
 
 import java.util.Arrays;
 

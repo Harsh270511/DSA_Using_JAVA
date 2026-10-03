@@ -1,5 +1,5 @@
 //LCS space optimization
-package ApnaCollege.L39DP1;
+package DSA.L39DP1;
 
 public class notes6 {
     public static int lcs(String s1, String s2) {

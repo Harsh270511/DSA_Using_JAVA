@@ -1,5 +1,5 @@
 //Cycle detection in directed graph
-package ApnaCollege.L35Graph2;
+package DSA.L35Graph2;
 import java.util.*;
 public class notes5 {
   static class Edge{

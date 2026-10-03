@@ -1,5 +1,5 @@
 //fib space optimization
-package ApnaCollege.L39DP1.Fibonacci;
+package DSA.L39DP1.Fibonacci;
 
 public class notes4 {
   public static int fibSpace(int n) {

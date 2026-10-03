@@ -1,5 +1,5 @@
 //BFS graph traversal
-package ApnaCollege.L34Graph1;
+package DSA.L34Graph1;
 import java.util.*;
 public class notes2 {
   //class with the name Edge
