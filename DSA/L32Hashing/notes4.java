@@ -1,5 +1,5 @@
 //implementation of the LinkedHashMap--> Keys are in insertation order
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 import java.util.LinkedHashMap;
 public class notes4 {
 

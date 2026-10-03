@@ -1,4 +1,4 @@
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes8 {
   public static boolean isSafe(int sudoku[][], int row, int col, int digit) {

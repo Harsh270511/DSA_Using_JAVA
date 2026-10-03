@@ -1,6 +1,6 @@
 
 //Heap sort Descending order T.C= O(nlogn) with chaning while printing the array 
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 public class notes6 {
   // heapify function

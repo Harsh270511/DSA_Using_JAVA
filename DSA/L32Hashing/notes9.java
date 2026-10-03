@@ -1,5 +1,5 @@
 //implementation of the HashSet using iterator and advance for loop
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 
 import java.util.*;
 

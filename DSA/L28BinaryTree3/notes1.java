@@ -1,5 +1,5 @@
 //Print the kth level of the tree
-package ApnaCollege.L28BinaryTree3;
+package DSA.L28BinaryTree3;
 public class notes1 {
   static class Node {
     int data;

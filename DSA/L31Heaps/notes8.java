@@ -1,5 +1,5 @@
 //NearBy cars problem same question exist on leetcode problem no. 973 with diff. name
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 import java.util.*;
 

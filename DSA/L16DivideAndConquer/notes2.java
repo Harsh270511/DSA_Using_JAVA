@@ -1,5 +1,5 @@
 //Quick sort code
-package ApnaCollege.L16DivideAndConquer;
+package DSA.L16DivideAndConquer;
 
 public class notes2 {
   public static void printArr(int[] arr) {

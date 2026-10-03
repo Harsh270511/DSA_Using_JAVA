@@ -1,5 +1,5 @@
 //we are checking either tree and subtree are identical or not
-package ApnaCollege.L27BinaryTree2;
+package DSA.L27BinaryTree2;
 
 public class notes3 {
   static class Node {

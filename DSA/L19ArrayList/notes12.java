@@ -1,6 +1,6 @@
 //this is the better to solve the sum pair 1 using 2 pointer approach
 
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

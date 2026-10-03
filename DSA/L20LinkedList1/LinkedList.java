@@ -1,5 +1,5 @@
 //the formation of the linkedlist kindly read it properly
-package ApnaCollege.L20LinkedList1;
+package DSA.L20LinkedList1;
 
 public class LinkedList {
   public static class Node {

@@ -1,5 +1,5 @@
 //java collection framework--> LinkedList
-package ApnaCollege.L21LinkedList2;
+package DSA.L21LinkedList2;
 
 import java.util.LinkedList;
 

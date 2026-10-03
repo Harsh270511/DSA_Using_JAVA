@@ -1,5 +1,5 @@
 //remove cycle
-package ApnaCollege.L21LinkedList2;
+package DSA.L21LinkedList2;
 
 public class notes2 {
   public static class Node {

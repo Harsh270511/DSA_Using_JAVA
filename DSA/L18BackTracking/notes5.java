@@ -1,5 +1,5 @@
 //N-Queen leetcode problem number:52 (problem number 2)
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 public class notes5 {
   //function for isSafe
   public static boolean isSafe(char[][] board, int row, int col){

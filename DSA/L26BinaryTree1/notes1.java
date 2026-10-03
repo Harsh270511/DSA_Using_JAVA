@@ -1,5 +1,5 @@
 // Binary tree basic pre-order, in-order, post-order, level-order
-package ApnaCollege.L26BinaryTree1;
+package DSA.L26BinaryTree1;
 
 import java.util.*;
 

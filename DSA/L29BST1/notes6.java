@@ -1,5 +1,5 @@
 //Root to leaf paths
-package ApnaCollege.L29BST1;
+package DSA.L29BST1;
 
 import java.util.*;
 

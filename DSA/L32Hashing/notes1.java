@@ -1,5 +1,5 @@
 //Hashing Operators
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 
 //Importing to use the HashMap
 //import java.util.HashMap;

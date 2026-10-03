@@ -1,5 +1,5 @@
 //Doubly linkedlist
-package ApnaCollege.L21LinkedList2;
+package DSA.L21LinkedList2;
 
 public class notes6 {
   public  class Node{

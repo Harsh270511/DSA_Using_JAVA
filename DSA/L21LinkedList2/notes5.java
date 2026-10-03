@@ -1,6 +1,6 @@
 //zig-zag linked list
 //ek baar deykh lena code kuch issues hain samjhne me
-package ApnaCollege.L21LinkedList2;
+package DSA.L21LinkedList2;
 
 
 public class notes5 {

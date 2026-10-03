@@ -1,5 +1,5 @@
 //How to declare array list
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

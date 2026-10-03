@@ -1,5 +1,5 @@
 //Valid parantheses with T.C=O(n);
-package ApnaCollege.L23Stack2;
+package DSA.L23Stack2;
 import java.util.*;
 public class notes1 {
   public static boolean isValid(String str){

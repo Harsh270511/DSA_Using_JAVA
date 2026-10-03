@@ -1,6 +1,6 @@
 //Question number 1
 
-package ApnaCollege.L24Queues;
+package DSA.L24Queues;
 public class notes3 {
   static class Node {
     int data;

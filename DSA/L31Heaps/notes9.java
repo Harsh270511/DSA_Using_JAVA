@@ -1,5 +1,5 @@
 //connect n ropes
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 import java.util.*;
 
 public class notes9 {

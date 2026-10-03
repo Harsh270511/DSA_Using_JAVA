@@ -1,5 +1,5 @@
 //swap 2 variables in ArrayList
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

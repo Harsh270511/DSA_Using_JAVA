@@ -1,5 +1,5 @@
 //Count Distint element
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 import java.util.HashSet;
 public class notes11 {
   public static void main(String[] args) {

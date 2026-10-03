@@ -1,4 +1,4 @@
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 
 import java.util.TreeMap;
 

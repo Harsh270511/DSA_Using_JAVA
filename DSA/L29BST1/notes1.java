@@ -1,5 +1,5 @@
 //InOrder Traversal of BST gives a sorted sequence
-package ApnaCollege.L29BST1;
+package DSA.L29BST1;
 
 public class notes1 {
   static class Node{

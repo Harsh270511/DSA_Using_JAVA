@@ -1,6 +1,6 @@
 //here the program is implementing the stack concept with the arraylist
 
-package ApnaCollege.L22Stack1;
+package DSA.L22Stack1;
 
 import java.util.ArrayList;
 

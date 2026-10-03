@@ -1,5 +1,5 @@
 //delete a node
-package ApnaCollege.L29BST1;
+package DSA.L29BST1;
 
 public class notes4 {
   static class Node{

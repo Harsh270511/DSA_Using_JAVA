@@ -1,5 +1,5 @@
 //Sliding window maximum
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 //Question number 5;
-package ApnaCollege.L24Queues;
+package DSA.L24Queues;
 import java.util.*;
 
 public class notes8 {

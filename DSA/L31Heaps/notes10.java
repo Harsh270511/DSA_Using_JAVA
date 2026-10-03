@@ -1,5 +1,5 @@
 //weakest soldier
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 import java.util.*;
 public class notes10 {
   //Binary Matrix  (m X n)

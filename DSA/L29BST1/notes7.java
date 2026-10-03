@@ -1,5 +1,5 @@
 //Validate BST
-package ApnaCollege.L29BST1;
+package DSA.L29BST1;
 
 public class notes7 {
   static class Node{

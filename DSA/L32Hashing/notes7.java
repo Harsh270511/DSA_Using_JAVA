@@ -1,5 +1,5 @@
 //Valid Anagram
-package ApnaCollege.L32Hashing;
+package DSA.L32Hashing;
 import java.util.*;
 public class notes7 {
   public static boolean isAnagram(String s, String t){

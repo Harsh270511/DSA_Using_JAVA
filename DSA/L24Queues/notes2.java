@@ -1,5 +1,5 @@
 //Implementation of Array in Queue with circular queue
-package ApnaCollege.L24Queues;
+package DSA.L24Queues;
 
 public class notes2 {
   static class Queue {

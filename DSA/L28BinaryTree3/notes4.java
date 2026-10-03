@@ -1,5 +1,5 @@
 //minimum distance between the node
-package ApnaCollege.L28BinaryTree3;
+package DSA.L28BinaryTree3;
 
 public class notes4 {
   static class Node {

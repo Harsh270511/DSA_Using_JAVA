@@ -1,5 +1,5 @@
 //Heap is not implemented as a Node class
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 import java.util.*;
 public class notes2 {
   static class Student implements Comparable<Student>{//override

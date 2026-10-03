@@ -1,6 +1,6 @@
 //Size of largest BST in BT
 
-package ApnaCollege.L30BST2;
+package DSA.L30BST2;
 
 public class notes3 {
   static class Node{

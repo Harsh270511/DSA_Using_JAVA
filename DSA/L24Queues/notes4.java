@@ -1,5 +1,5 @@
 //Question 1 implementation through Java collection framework
-package ApnaCollege.L24Queues;
+package DSA.L24Queues;
 import java.util.*;
 public class notes4 {
   public static void main(String[] args) {

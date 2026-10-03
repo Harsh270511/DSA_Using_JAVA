@@ -1,5 +1,5 @@
 //BackTracking in an array
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes1 {
   public static void changeArr(int[] arr, int i, int val) {

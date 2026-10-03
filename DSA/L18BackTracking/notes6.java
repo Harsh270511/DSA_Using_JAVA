@@ -1,5 +1,5 @@
 //this is the problem-3 to solve for nQueen
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes6 {
   public static boolean isSafe(char[][] board, int row, int col) {

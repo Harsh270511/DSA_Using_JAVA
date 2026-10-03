@@ -1,7 +1,7 @@
 //container  with most water better  approach using 2 pointer approach
 //Rp = Right pointer
 //LP = Left pointer
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

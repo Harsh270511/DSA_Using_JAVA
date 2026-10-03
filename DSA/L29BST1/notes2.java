@@ -1,5 +1,5 @@
 // Build a BST
-package ApnaCollege.L29BST1;
+package DSA.L29BST1;
 
 public class notes2 {
   static class Node {

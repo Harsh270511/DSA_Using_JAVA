@@ -1,4 +1,4 @@
-package ApnaCollege.L16DivideAndConquer;
+package DSA.L16DivideAndConquer;
 
 public class notes3 {
   public static int searching(int arr[], int tar, int si, int ei) {

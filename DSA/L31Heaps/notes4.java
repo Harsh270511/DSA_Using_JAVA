@@ -2,7 +2,7 @@
 //Get minimum element in the heap
 //Delete the minimum element in the heap
 //The output is in the ascending order order formate 
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 //reverse a stack
-package ApnaCollege.L22Stack1;
+package DSA.L22Stack1;
 
 import java.util.*;
 

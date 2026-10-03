@@ -1,5 +1,5 @@
 //Sorted Array to Balanced BST
-package ApnaCollege.L30BST2;
+package DSA.L30BST2;
 
 public class notes1 {
   static class Node{

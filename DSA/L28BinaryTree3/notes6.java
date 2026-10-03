@@ -1,4 +1,4 @@
-package ApnaCollege.L28BinaryTree3;
+package DSA.L28BinaryTree3;
 
 public class notes6 {
   static class Node {

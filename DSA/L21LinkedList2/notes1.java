@@ -1,5 +1,5 @@
 //detect the cycle/loop in a linkedlist
-package ApnaCollege.L21LinkedList2;
+package DSA.L21LinkedList2;
 
 public class notes1 {
   public static class Node {

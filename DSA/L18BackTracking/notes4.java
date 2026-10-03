@@ -1,5 +1,5 @@
 //N-Queen leetcode problem number:51 (problem number 1)
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes4 {
   // function for isSafe

@@ -1,5 +1,5 @@
 //Activity Selection if the given array is sorted
-package ApnaCollege.L25GreedyAlgo;
+package DSA.L25GreedyAlgo;
 
 import java.util.ArrayList;
 

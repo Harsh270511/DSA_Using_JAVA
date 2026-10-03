@@ -1,5 +1,5 @@
 //finding subset using backtracking
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes2 {
   public static void Findsubset(String str, String ans, int i) {

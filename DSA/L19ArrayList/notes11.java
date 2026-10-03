@@ -1,5 +1,5 @@
 //this is the brute force to solve the sum pair 1
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

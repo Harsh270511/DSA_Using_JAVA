@@ -1,5 +1,5 @@
 //height of a tree
-package ApnaCollege.L26BinaryTree1;
+package DSA.L26BinaryTree1;
 
 public class notes2 {
   static class Node{

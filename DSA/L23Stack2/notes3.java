@@ -1,5 +1,5 @@
 //Max Area in Histogram: T.C== O(3n)--> O(n)
-package ApnaCollege.L23Stack2;
+package DSA.L23Stack2;
 import java.util.*;
 public class notes3 {
   public static void maxArea(int[] arr){

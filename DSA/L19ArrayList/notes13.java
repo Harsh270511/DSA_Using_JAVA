@@ -1,5 +1,5 @@
 //pair sum 2 using 2 pointer
-package ApnaCollege.L19ArrayList;
+package DSA.L19ArrayList;
 
 import java.util.ArrayList;
 

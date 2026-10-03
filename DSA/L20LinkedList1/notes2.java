@@ -1,5 +1,5 @@
 
-package ApnaCollege.L20LinkedList1;
+package DSA.L20LinkedList1;
 
 public class notes2 {
   public static class Node {

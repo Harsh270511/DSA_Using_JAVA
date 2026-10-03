@@ -1,5 +1,5 @@
 //sum of the nodes
-package ApnaCollege.L26BinaryTree1;
+package DSA.L26BinaryTree1;
 
 public class notes4 {
   static class Node{

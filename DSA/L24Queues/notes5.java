@@ -1,5 +1,5 @@
 //Question 2>>>
-package ApnaCollege.L24Queues;
+package DSA.L24Queues;
 
 import java.util.Stack;
 

@@ -1,5 +1,5 @@
 //Diameter of the a Tree approach number 1--> T.C = O(n^2)
-package ApnaCollege.L27BinaryTree2;
+package DSA.L27BinaryTree2;
 
 public class notes1 {
   static class Node {

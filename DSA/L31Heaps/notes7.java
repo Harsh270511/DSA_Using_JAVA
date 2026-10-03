@@ -1,6 +1,6 @@
 
 //Heap sort Descending order T.C= O(nlogn) with changing the sign in heapify fxn and calculate the minIdx this time... 
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 public class notes7 {
   // heapify function

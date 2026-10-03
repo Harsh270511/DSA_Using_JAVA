@@ -1,5 +1,5 @@
 //merge sorting for +ve and -ve values
-package ApnaCollege.L16DivideAndConquer;
+package DSA.L16DivideAndConquer;
 
 public class notes1 {
 

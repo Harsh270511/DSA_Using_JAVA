@@ -1,6 +1,6 @@
 //Duplicates paranthese
 
-package ApnaCollege.L23Stack2;
+package DSA.L23Stack2;
 import java.util.*;
 public class notes2 {
 

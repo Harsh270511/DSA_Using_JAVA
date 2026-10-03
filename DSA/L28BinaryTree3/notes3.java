@@ -1,5 +1,5 @@
 //this is the approach 2 to find the lowest common ancestor
-package ApnaCollege.L28BinaryTree3;
+package DSA.L28BinaryTree3;
 
 public class notes3 {
   static class Node {

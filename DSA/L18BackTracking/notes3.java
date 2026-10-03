@@ -1,4 +1,4 @@
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes3 {
   public static void findPermutation(String str, String ans) {

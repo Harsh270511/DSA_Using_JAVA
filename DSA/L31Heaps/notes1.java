@@ -1,5 +1,5 @@
 //basics of Heap (add, remove, peek)
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 import java.util.*;
 public class notes1 {
   public static void main(String[] args) {

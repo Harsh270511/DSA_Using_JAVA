@@ -1,5 +1,5 @@
 //Push at the bottom of the stack
-package ApnaCollege.L22Stack1;
+package DSA.L22Stack1;
 import java.util.*;
 public class notes4 {
   public static void pushAtBottom(Stack<Integer> s, int data){

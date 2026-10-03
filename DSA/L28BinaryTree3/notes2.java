@@ -1,5 +1,5 @@
 //Lowest common ancestor approach number 1:::T.C=O(n)=S.C
-package ApnaCollege.L28BinaryTree3;
+package DSA.L28BinaryTree3;
 
 import java.util.*;
 

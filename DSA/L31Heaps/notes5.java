@@ -1,5 +1,5 @@
 //Heap sort ascending order T.C= O(nlogn)
-package ApnaCollege.L31Heaps;
+package DSA.L31Heaps;
 
 public class notes5 {
   // heapify function

@@ -1,5 +1,5 @@
 //Grid problem
-package ApnaCollege.L18BackTracking;
+package DSA.L18BackTracking;
 
 public class notes7 {
   public static int gridWays(int i, int j , int n, int m){
