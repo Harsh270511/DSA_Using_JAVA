@@ -1,4 +1,4 @@
-package ApnaCollege.L2Conditional;
+package DSA.L2Conditional;
 
 public class notes3 {
   public static void main(String[] args) {

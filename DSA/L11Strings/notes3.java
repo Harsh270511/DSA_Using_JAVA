@@ -1,4 +1,4 @@
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes3 {
   public static float getShortestPath(String path) {

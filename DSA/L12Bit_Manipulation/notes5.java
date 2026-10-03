@@ -1,5 +1,5 @@
 //this program is for clear ith bit mtlb ith bit vale binaray number ko 0 bna dena h
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes5 {
   public static int clearIthBit(int num, int i) {

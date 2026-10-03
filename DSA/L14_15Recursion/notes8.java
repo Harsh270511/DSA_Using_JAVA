@@ -1,5 +1,5 @@
 //finding the last occurences
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes8 {
   public static int lastOcc(int[] arr, int key, int i){

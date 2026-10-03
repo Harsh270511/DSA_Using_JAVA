@@ -1,5 +1,5 @@
 // this is the program for getting the ith bit either it would be 0 or 1
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes3 {
   public static void main(String[] args) {

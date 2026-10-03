@@ -1,6 +1,6 @@
 //Search in sorted matrix 
 //this is the optimise way to solve the problem the bottom right will  be taken as reference
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 public class notes6 {
   public static boolean StairCase(int matrix[][], int key) {

@@ -1,5 +1,5 @@
 //multiplication table
-package ApnaCollege.L7Array1;
+package DSA.L7Array1;
 import java.util.Scanner;
 public class notes11 {
   public static void main(String[] args) {

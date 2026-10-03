@@ -1,5 +1,5 @@
 //kadane's Algorithm
-package ApnaCollege.L8Array_Part2;
+package DSA.L8Array_Part2;
 public class notes2 {
   public static void kadaneAlgo(int nums[]){
     int ms = Integer.MIN_VALUE;

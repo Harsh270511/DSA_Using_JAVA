@@ -1,6 +1,6 @@
 //printing the number in increasing order using recursion
 
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes2 {
   public static void printInc(int n) {

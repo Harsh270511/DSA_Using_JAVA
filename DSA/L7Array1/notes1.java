@@ -1,5 +1,5 @@
 //package lecture_4;
-package ApnaCollege.L7Array1;
+package DSA.L7Array1;
 public class notes1 {
   public static void main(String[] args) {
     int cnt = 0;

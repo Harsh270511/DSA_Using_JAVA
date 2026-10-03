@@ -1,4 +1,4 @@
-package ApnaCollege.L3Loops;
+package DSA.L3Loops;
 
 import java.util.Scanner;
 

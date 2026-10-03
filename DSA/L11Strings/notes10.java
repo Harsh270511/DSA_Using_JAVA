@@ -1,4 +1,4 @@
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes10 {
   public static String toUpperCase(String str){

@@ -1,4 +1,4 @@
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 //import java.util.Scanner;
 

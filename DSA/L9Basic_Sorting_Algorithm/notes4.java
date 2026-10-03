@@ -1,4 +1,4 @@
-package ApnaCollege.L9Basic_Sorting_Algorithm;
+package DSA.L9Basic_Sorting_Algorithm;
 
 public class notes4 {
   public static void Insertion(int arr[]) {

@@ -1,5 +1,5 @@
 //finding the first occurences
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes7 {
   public static int firstOcc(int[] arr, int key, int i) {

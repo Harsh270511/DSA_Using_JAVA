@@ -1,6 +1,6 @@
 //Search in sorted matrix 
 //this is the optimise way to solve the problem the top right will  be taken as reference
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 public class notes5 {
   public static boolean SearchMat(int matrix[][], int key){

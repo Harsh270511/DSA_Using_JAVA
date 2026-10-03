@@ -1,4 +1,4 @@
-package ApnaCollege.L5FxnAndMethod;
+package DSA.L5FxnAndMethod;
 public class notes3 {
   public static void swap(int x, int y){
     x= x ^ y;

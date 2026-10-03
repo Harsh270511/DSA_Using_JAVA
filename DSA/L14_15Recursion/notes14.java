@@ -1,5 +1,5 @@
 //consecutive ones
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes14 {
   public static void printBinaryString(int n, int lastPlace, String str){

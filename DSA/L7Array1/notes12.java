@@ -1,5 +1,5 @@
 
-package ApnaCollege.L7Array1;
+package DSA.L7Array1;
 import java.util.Scanner;
 
 public class notes12 {

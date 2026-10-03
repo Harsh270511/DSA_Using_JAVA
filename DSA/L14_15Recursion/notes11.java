@@ -1,4 +1,4 @@
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 public class notes11 {
   public static int tilingProblem(int n){// n for length of the floor/board
     //base case

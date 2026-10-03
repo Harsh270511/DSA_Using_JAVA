@@ -1,4 +1,4 @@
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes5 {
   //si= starting Index; ei = Ending index this is excluded

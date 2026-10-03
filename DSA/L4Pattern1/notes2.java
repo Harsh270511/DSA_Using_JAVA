@@ -1,5 +1,5 @@
 //Printing the reverse symbols
-package ApnaCollege.L4Pattern1;
+package DSA.L4Pattern1;
 
 import java.util.Scanner;
 

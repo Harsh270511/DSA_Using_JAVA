@@ -1,5 +1,5 @@
 //Linear search
-package ApnaCollege.L7Array1;
+package DSA.L7Array1;
 
 public class notes14 {
   public static int linerSearch(int[] num, int key){

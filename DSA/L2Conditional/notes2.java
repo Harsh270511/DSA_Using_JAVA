@@ -1,5 +1,5 @@
 /*Types in input in java */
-package ApnaCollege.L2Conditional;
+package DSA.L2Conditional;
 import java.util.*;
 public class notes2 {
   public static void main(String[] args) {

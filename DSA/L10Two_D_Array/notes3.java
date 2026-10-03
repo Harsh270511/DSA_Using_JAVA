@@ -1,5 +1,5 @@
 //Sum of Diagonal matrix
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 public class notes3 {
   public static int diagonal(int matrix[][]) {

@@ -1,5 +1,5 @@
 //program for non-consecutive zeroes
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes15 {
   public static void printBString(int n, int lastPlace, String str){

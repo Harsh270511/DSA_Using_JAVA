@@ -1,5 +1,5 @@
 //odd and even using the bit and operator
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes2 {
   public static void oddEven(int num) {

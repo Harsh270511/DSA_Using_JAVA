@@ -1,5 +1,5 @@
 //Creating array
-package ApnaCollege.L8Array_Part2;
+package DSA.L8Array_Part2;
 
 import java.util.Arrays;
 

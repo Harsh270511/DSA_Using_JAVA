@@ -1,5 +1,5 @@
 //toString used to convert the object into an String
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes8 {
   public static void main(String[] args) {

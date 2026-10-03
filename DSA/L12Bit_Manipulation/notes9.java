@@ -1,5 +1,5 @@
 //clear from ith bit to jth bits
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes9 {
   public static int clearIthToJthBits(int num, int i, int j) {

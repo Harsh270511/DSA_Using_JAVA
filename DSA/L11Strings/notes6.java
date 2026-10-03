@@ -1,4 +1,4 @@
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes6 {
   public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //calculating the factorial of number
-package ApnaCollege.L7Array1;
+package DSA.L7Array1;
 
 import java.util.Scanner;
 

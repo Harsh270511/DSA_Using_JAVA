@@ -1,5 +1,5 @@
 //pow(x ,n) at T.C =O(n)
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes9 {
   public static int power(int x, int n){

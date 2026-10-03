@@ -1,5 +1,5 @@
 //Trapped water calculation
-package ApnaCollege.L8Array_Part2;
+package DSA.L8Array_Part2;
 
 public class notes3 {
   public static int TrapWater(int height[]) {

@@ -1,4 +1,4 @@
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 import java.util.Scanner;
 

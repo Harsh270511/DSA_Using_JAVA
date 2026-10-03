@@ -1,4 +1,4 @@
-package ApnaCollege.Extra;
+package DSA.Extra;
 
 public class aa2 {
   public static void subArray(int[] nums) {

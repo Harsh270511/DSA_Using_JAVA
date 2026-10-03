@@ -1,4 +1,4 @@
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes1 {
   public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //it will count that how much times a character is their
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes11 {
   public static String compress(String str){

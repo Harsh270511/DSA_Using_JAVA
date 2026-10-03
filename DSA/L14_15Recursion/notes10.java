@@ -1,5 +1,5 @@
 //power(x , n) at T.C= O(logn)
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes10 {
   public static int optimisedPower(int x, int n){

@@ -1,5 +1,5 @@
 //update ith bit program this is the 1st way to update the ith bit 
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes6 {
   // this is the clearIthBit vala function

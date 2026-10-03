@@ -1,6 +1,6 @@
 //Search in sorted matrix;
 //this is the brute force approach to solve this problem
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 public class notes4 {
   public static boolean checkSearch(int matrix[][], int key) {

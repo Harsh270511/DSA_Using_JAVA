@@ -1,6 +1,6 @@
 // Print Hollow Rectangle Pattern
 
-package ApnaCollege.L6Pattern2;
+package DSA.L6Pattern2;
 public class notes1 {
   public static void Hollow_pattern(int totRows, int tolCols) {
     // outer loop

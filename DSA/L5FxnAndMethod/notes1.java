@@ -1,4 +1,4 @@
-package ApnaCollege.L5FxnAndMethod;
+package DSA.L5FxnAndMethod;
 
 import java.util.Scanner;
 

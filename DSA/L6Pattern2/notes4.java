@@ -1,5 +1,5 @@
 //Floyd's Triangle
-package ApnaCollege.L6Pattern2;
+package DSA.L6Pattern2;
 
 
 public class notes4 {

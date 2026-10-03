@@ -1,5 +1,5 @@
 //printing the number in decreasing order using recursion
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes1 {
 

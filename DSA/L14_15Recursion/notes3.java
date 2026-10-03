@@ -1,5 +1,5 @@
 //factorial calculation 
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes3 {
   public static int factorial(int n) {

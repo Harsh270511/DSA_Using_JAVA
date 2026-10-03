@@ -1,4 +1,4 @@
-package ApnaCollege.Extra;
+package DSA.Extra;
 
 public class aa1 {
   public static void printPair(int nums[]) {

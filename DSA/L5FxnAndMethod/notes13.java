@@ -1,5 +1,5 @@
 //way 1 for binary to decimal
-package ApnaCollege.L5FxnAndMethod;
+package DSA.L5FxnAndMethod;
 
 
 public class notes13 {

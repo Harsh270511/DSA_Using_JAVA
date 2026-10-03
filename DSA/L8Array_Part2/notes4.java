@@ -1,4 +1,4 @@
-package ApnaCollege.L8Array_Part2;
+package DSA.L8Array_Part2;
 
 public class notes4 {
   public static int BuyAndSell(int prices[]){

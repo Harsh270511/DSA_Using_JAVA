@@ -1,6 +1,6 @@
 // 0-1 triangle
 
-package ApnaCollege.L6Pattern2;
+package DSA.L6Pattern2;
 
 public class notes5 {
   public static void ZeroOneTriangle(int n){

@@ -1,5 +1,5 @@
 //checking the palindrome either the string is palindrome or not
-package ApnaCollege.L11Strings;
+package DSA.L11Strings;
 
 public class notes2 {
   public static boolean isPalindrome(String str) {

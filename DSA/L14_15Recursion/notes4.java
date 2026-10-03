@@ -1,5 +1,5 @@
 //sum  of n positive natural numbers
-package ApnaCollege.L14_15Recursion;
+package DSA.L14_15Recursion;
 
 public class notes4 {
   public static int sum(int n) {

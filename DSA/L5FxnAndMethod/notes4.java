@@ -1,4 +1,4 @@
-package ApnaCollege.L5FxnAndMethod;
+package DSA.L5FxnAndMethod;
 
 public class notes4 {
   public static int product(int x, int y){

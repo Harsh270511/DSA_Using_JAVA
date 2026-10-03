@@ -1,4 +1,4 @@
-package ApnaCollege.L5FxnAndMethod;
+package DSA.L5FxnAndMethod;
 
 public class notes11 {
   public static boolean isPrime(int n) {

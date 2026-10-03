@@ -1,4 +1,4 @@
-package ApnaCollege.L9Basic_Sorting_Algorithm;
+package DSA.L9Basic_Sorting_Algorithm;
 
 import java.util.*;
 public class notes5 {

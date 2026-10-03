@@ -1,6 +1,6 @@
 //Spiral Matrix
 
-package ApnaCollege.L10Two_D_Array;
+package DSA.L10Two_D_Array;
 
 public class notes2 {
   public static void Spiral(int matrix[][]){

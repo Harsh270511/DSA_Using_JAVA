@@ -1,4 +1,4 @@
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes8 {
   public static int clearIthBit(int num, int i){

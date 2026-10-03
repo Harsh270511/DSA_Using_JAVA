@@ -1,4 +1,4 @@
-package ApnaCollege.L3Loops;
+package DSA.L3Loops;
 
 public class notes1 {
   public static void main(String[] args) {

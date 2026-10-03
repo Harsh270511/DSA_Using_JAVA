@@ -1,5 +1,5 @@
 //program to count the number of set bits
-package ApnaCollege.L12Bit_Manipulation;
+package DSA.L12Bit_Manipulation;
 
 public class notes11 {
   public static int countSetBits(int num){
