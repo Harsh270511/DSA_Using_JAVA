@@ -1,12 +1,11 @@
 # 🚀 DSA Using Java
 
-> **A collection of 300+ Data Structures & Algorithms problems solved in Java — focused on problem-solving, optimization, and interview preparation.**
+> **A collection of Data Structures & Algorithms problems solved in Java — focused on problem-solving, optimization, and interview preparation.**
 
 ---
 
 ## 📊 Repository Highlights
 
-* 🔥 **300+ DSA Problems Solved**
 * ☕ **Java-based implementations**
 * 🧠 Focus on **Problem Solving & Algorithmic Thinking**
 * ⚡ Optimized solutions with attention to **Time & Space Complexity**
@@ -52,10 +51,6 @@ Each solution focuses on:
 * ✅ Learning from different problem patterns
 
 ---
-
-## 📈 Progress
-
-**300+ Problems Solved and Counting... 🚀**
 
 > *Consistency beats intensity. One problem at a time.*
 
